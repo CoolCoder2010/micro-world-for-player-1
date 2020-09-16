@@ -78,6 +78,7 @@ let Player_2: game.LedSprite = null
 let ModeOther = 0
 let Player_1: game.LedSprite = null
 let Mode1 = 0
+radio.setGroup(1)
 basic.showString("Micro World")
 basic.showString("How many players?")
 let Choose_1234 = 1
